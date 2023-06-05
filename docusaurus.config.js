@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Roktim Blog Site",
   tagline: "Lets Learn Together",
-  favicon: "img/favicon.ico",
+  favicon: "/static/img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://github.com",
@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "roktim32", // Usually your GitHub org/user name.
   projectName: "my-personal-blog", // Usually your repo name.
-  deploymentBranch:"gh=pages",
+  deploymentBranch: "gh=pages",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My Site",
+        title: "Roktim",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -101,16 +101,16 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "GitHub",
+                href: "https://github.com/roktim32",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/roktim-kamal-senapoty/",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/roktim___",
               },
             ],
           },
@@ -123,12 +123,12 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/roktim32",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Made by Roktim ❤️`,
       },
       prism: {
         theme: lightCodeTheme,
