@@ -4,10 +4,20 @@
         <title>Roktim Blog Site Blog</title>
         <link>https://github.com/my-personal-blog/blog</link>
         <description>Roktim Blog Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Test Blog Post]]></title>
+            <link>https://github.com/my-personal-blog/blog/test-blog-post</link>
+            <guid>https://github.com/my-personal-blog/blog/test-blog-post</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Testing my new blog post.Lets Go]]></description>
+            <content:encoded><![CDATA[<p>Testing my new blog post.Lets Go</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/my-personal-blog/blog/welcome</link>
