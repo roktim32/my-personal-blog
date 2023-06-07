@@ -7,7 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Roktim Blog Site",
-  tagline: "Lets Learn Together",
+  tagline:
+    "Welcome to CodeXplore — Your one-stop-shop to learn all about development and New Technologies.",
   favicon: "/static/img/favicon.ico",
 
   // Set the production url of your site here
