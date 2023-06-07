@@ -6,22 +6,22 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Roktim Blog Site",
-  tagline:
-    "Welcome to CodeXplore — Your one-stop-shop to learn all about development and New Technologies.",
+  title: "Learn with Roktim",
+  tagline: "Stay Ahead in the World of Technology: Learn and Innovate with Me",
   favicon: "/static/img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://github.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/my-personal-blog/",
+  baseUrl: "/",
+  // baseUrl: "/my-personal-blog/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "roktim32", // Usually your GitHub org/user name.
   projectName: "my-personal-blog", // Usually your repo name.
-  deploymentBranch: "gh=pages",
+  // deploymentBranch: "gh=pages",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
