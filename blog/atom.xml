@@ -12,8 +12,8 @@
         <id>https://github.com/my-personal-blog/blog/test-blog-post</id>
         <link href="https://github.com/my-personal-blog/blog/test-blog-post"/>
         <updated>2023-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Testing my new blog post.Lets Goooooo !!!]]></summary>
-        <content type="html"><![CDATA[<p>Testing my new blog post.Lets Goooooo !!!</p>]]></content>
+        <summary type="html"><![CDATA[Testing my new blog post.Lets Goooooo]]></summary>
+        <content type="html"><![CDATA[<p>Testing my new blog post.Lets Goooooo</p>]]></content>
         <author>
             <name>Roktim</name>
             <uri>https://github.com/roktim32</uri>

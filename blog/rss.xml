@@ -13,8 +13,8 @@
             <link>https://github.com/my-personal-blog/blog/test-blog-post</link>
             <guid>https://github.com/my-personal-blog/blog/test-blog-post</guid>
             <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Testing my new blog post.Lets Goooooo !!!]]></description>
-            <content:encoded><![CDATA[<p>Testing my new blog post.Lets Goooooo !!!</p>]]></content:encoded>
+            <description><![CDATA[Testing my new blog post.Lets Goooooo]]></description>
+            <content:encoded><![CDATA[<p>Testing my new blog post.Lets Goooooo</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
