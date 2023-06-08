@@ -1,5 +1,5 @@
 ---
-slug: test-blog-post
+slug: first-blog-post
 title: My First Blog Post
 authors:
   name: Roktim

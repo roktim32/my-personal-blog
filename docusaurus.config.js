@@ -14,14 +14,14 @@ const config = {
   url: "https://github.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // baseUrl: "/",
-  baseUrl: "/my-personal-blog/",
+  baseUrl: "/",
+  // baseUrl: "/my-personal-blog/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "roktim32", // Usually your GitHub org/user name.
   projectName: "my-personal-blog", // Usually your repo name.
-  // deploymentBranch: "gh=pages",
+  deploymentBranch: "gh=pages",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -43,6 +43,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          // routerBasePath: "/",
           editUrl: "https://github.com/roktim32/my-personal-blog",
         },
         blog: {
