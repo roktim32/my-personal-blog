@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# CSS (Cascading Style Sheets) Basics
+# CSS Basics
 
-##Coming Soon
+## (Cascading Style Sheets) Coming Soon
